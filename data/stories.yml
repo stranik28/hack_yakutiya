@@ -1,0 +1,48 @@
+version: "3.1"
+
+stories:
+
+- story: story_1
+  steps:
+  - intent: intent_1
+  - action: utter_1
+
+- story: story_2
+  steps:
+  - intent: intent_2
+  - action: utter_2
+
+- story: story_3
+  steps:
+  - intent: intent_3
+  - action: utter_3
+
+- story: story_4
+  steps:
+  - intent: intent_4
+  - action: utter_4
+
+- story: story_5
+  steps:
+  - intent: intent_5
+  - action: utter_5
+
+- story: story_6
+  steps:
+  - intent: intent_6
+  - action: utter_6
+
+- story: story_7
+  steps:
+  - intent: intent_7
+  - action: utter_7
+
+- story: story_8
+  steps:
+  - intent: intent_8
+  - action: utter_8
+
+- story: story_9
+  steps:
+  - intent: intent_9
+  - action: utter_9
