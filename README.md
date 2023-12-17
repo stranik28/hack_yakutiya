@@ -10,5 +10,5 @@ docker compose up
 rasa, vk_api, fast API
 ```
 
-приложение работает по схеме 
+приложение работает по схеме <br>
 VK_API <-> FAST API <-> RASA
